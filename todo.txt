@@ -1,0 +1,3 @@
+- Create testing data on startup that inserts a wedding to database with fields
+wedding display name, token (which is generated on the fly), list of invitees
+
